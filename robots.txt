@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cquesabe.com.br/sitemap.xml
